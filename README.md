@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="./banner.svg" alt="Code to Stories: I used to write code. Now I tell stories." width="100%" />
+  <a href="https://xyf527.github.io/">
+    <img src="./banner.svg" alt="Code to Stories: I used to write code. Now I tell stories. Visit xyf527.github.io" width="100%" />
+  </a>
 </p>
 
 ### Hi there 👋 I'm xyf
