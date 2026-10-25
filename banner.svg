@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="400" viewBox="0 0 1280 400" role="img" aria-label="xyf: Code to Stories. I used to write code. Now I tell stories.">
+  <defs>
+    <pattern id="g" width="48" height="48" patternUnits="userSpaceOnUse">
+      <path d="M48 0H0V48" fill="none" stroke="#1f2350" stroke-opacity=".18" stroke-width="1"/>
+    </pattern>
+    <style>
+      .mono{font-family:'Fragment Mono',ui-monospace,'SF Mono',Menlo,monospace}
+      .disp{font-family:'Archivo','Arial Narrow','Helvetica Neue',Arial,sans-serif;font-weight:900}
+      .cn{font-family:'PingFang SC','Noto Sans SC','Microsoft YaHei',sans-serif;font-weight:700}
+      .blink{animation:b 1s steps(1) infinite}
+      .dot{animation:p 1.6s ease-in-out infinite}
+      @keyframes b{50%{opacity:0}}
+      @keyframes p{50%{opacity:.2}}
+    </style>
+  </defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#dcf1ff"/><stop offset=".7" stop-color="#a8dcff"/></linearGradient>
+  <rect width="1280" height="400" rx="18" fill="url(#sky)"/>
+  <radialGradient id="pk" cx="1" cy="0" r=".7"><stop offset="0" stop-color="#ffb0d0"/><stop offset="1" stop-color="#ffb0d0" stop-opacity="0"/></radialGradient>
+  <radialGradient id="pu" cx="0" cy=".9" r=".5"><stop offset="0" stop-color="#c8b6ff" stop-opacity=".8"/><stop offset="1" stop-color="#c8b6ff" stop-opacity="0"/></radialGradient>
+  <rect width="1280" height="400" rx="18" fill="url(#pk)"/>
+  <rect width="1280" height="400" rx="18" fill="url(#pu)"/>
+  <rect width="1280" height="400" rx="18" fill="url(#g)"/>
+  <rect x="4" y="4" width="1272" height="392" rx="15" fill="none" stroke="#1f2350" stroke-width="3"/>
+
+  <text x="56" y="70" class="mono" font-size="20" fill="#1f2350">xyf@mac ~ % git commit -m "new career: creator" <tspan class="blink">▌</tspan></text>
+
+  <circle cx="1000" cy="64" r="6" fill="#d9558c" class="dot"/>
+  <text x="1016" y="71" class="mono" font-size="18" fill="#1f2350">ON AIR</text>
+
+  <text x="52" y="236" fill="#1f2350"><tspan class="disp" font-size="148" letter-spacing="-3">CODE </tspan><tspan font-family="Georgia,'Times New Roman',serif" font-style="italic" font-size="120" fill="#d9558c">to </tspan><tspan class="disp" font-size="148" letter-spacing="-3">STORIES</tspan></text>
+
+  <text x="58" y="300" class="disp" font-size="40" fill="#1f2350">I used to write code. Now I tell stories.</text>
+
+  <line x1="56" y1="336" x2="1224" y2="336" stroke="#1f2350" stroke-width="2"/>
+  <text x="58" y="370" class="mono" font-size="18" fill="#1f2350">Java backend · AI Agents  →  Bilibili · more channels soon</text>
+  <text x="1224" y="370" class="mono" font-size="18" fill="#1f2350" text-anchor="end">github.com/xyf527</text>
+  <g transform="translate(1120 26) scale(1.4)">
+  <defs><clipPath id="avc"><circle cx="32" cy="32" r="31"/></clipPath></defs>
+  <g clip-path="url(#avc)">
+    <rect width="64" height="64" fill="#dcf1ff"/>
+    <!-- 耳朵 -->
+    <path d="M10 33 13 11 28 23Z" fill="#f0bf86"/>
+    <path d="M14 28 15.5 16 24 23Z" fill="#f6b3b6"/>
+    <path d="M54 33 51 11 36 23Z" fill="#f0bf86"/>
+    <path d="M50 28 48.5 16 40 23Z" fill="#f6b3b6"/>
+    <!-- 脸 -->
+    <ellipse cx="32" cy="38" rx="23" ry="18" fill="#f3c995"/>
+    <path d="M26 22q2 3 1 6M32 21v6M38 22q-2 3-1 6" stroke="#e2a964" stroke-width="1.6" stroke-linecap="round" fill="none"/>
+    <path d="M27.5 50Q32 29 36.5 50Z" fill="#fff6ea"/>
+    <ellipse cx="32" cy="48" rx="10" ry="6" fill="#fff6ea"/>
+    <!-- 眼睛 -->
+    <ellipse cx="22.5" cy="37" rx="4.8" ry="5" fill="#1e1511"/>
+    <ellipse cx="41.5" cy="37" rx="4.8" ry="5" fill="#1e1511"/>
+    <circle cx="24.2" cy="35.2" r="1.5" fill="#fff"/>
+    <circle cx="43.2" cy="35.2" r="1.5" fill="#fff"/>
+    <!-- 鼻子 -->
+    <path d="M30 43.2h4l-2 2.6Z" fill="#f29aa6"/>
+    <!-- 胡须 -->
+    <path d="M40 45.5l15-3M40 47l15 .8M24 45.5l-15-3M24 47l-15 .8" stroke="#fff" stroke-width=".9" stroke-linecap="round" opacity=".9"/>
+    <!-- 猫粮袋 -->
+    <path d="M-2 50 66 47V66H-2Z" fill="#ecebe6" stroke="#1f2350" stroke-width="1.6"/>
+    <path d="M2 53.5q8-2.5 17-1.4l-1 4.2Q10 55.6 3 57.6Z" fill="#e2574c"/>
+    <path d="M30 57h22M33 60.5h16" stroke="#1f2350" stroke-width="1.8" stroke-linecap="round"/>
+  </g>
+  <circle cx="32" cy="32" r="31" fill="none" stroke="#1f2350" stroke-width="2"/>
+</g>
+</svg>
